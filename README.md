@@ -1,10 +1,15 @@
 ![](https://github.com/user-attachments/assets/e59519f1-c5db-43b0-9cf8-c5981bc4c8d6)
 
-# OmniDocBench
+<h1 align="center">
+OmniDocBench
+</h1>
 
-English | [简体中文](./README.zh.md)
+<div align="center">
+English | <a href="./README.zh.md">简体中文</a>
 
 [[Dataset (🤗Hugging Face)]](https://huggingface.co/datasets/opendatalab/OmniDocBench) | [[Dataset (OpenDataLab)]](https://opendatalab.com/OpenDataLab/OmniDocBench)
+
+</div>
 
 **OmniDocBench** is a benchmark for evaluating diverse document parsing in real-world scenarios, featuring the following characteristics:
 - **Diverse Document Types**: This benchmark includes 981 PDF pages, covering 9 document types, 4 layout types, and 3 language types. It encompasses a wide range of content, including academic papers, financial reports, newspapers, textbooks, and handwritten notes.
