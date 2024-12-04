@@ -1486,3 +1486,14 @@ We welcome everyone to use the OmniDocBench dataset and provide valuable feedbac
 ## Copyright Statement
 
 The PDFs are collected from public online channels and community user contributions. Content that is not allowed for distribution has been removed. The dataset is for research purposes only and not for commercial use. If there are any copyright concerns, please contact OpenDataLab@pjlab.org.cn.
+
+## Citation
+
+```bibtex
+@misc{ouyang2024omnidocbench,
+  title={OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations},
+  author={Linke Ouyang and Yuan Qu and Hongbin Zhou and Jiawei Zhu and Rui Zhang and Qunshu Lin and Bin Wang and Zhiyuan Zhao and Man Jiang and Xiaomeng Zhao and Jin Shi and Fan Wu and Pei Chu and Minghao Liu and Zhenxiang Li and Chao Xu and Bo Zhang and Botian Shi and Zhongying Tu and Conghui He},
+  year={2024},
+  note={To appear on arXiv},
+}
+```
